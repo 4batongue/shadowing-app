@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "311189801730",
+    "project_id": "shadowing-app-dev",
+    "storage_bucket": "shadowing-app-dev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311189801730:android:be64f90106f66686b1501b",
+        "android_client_info": {
+          "package_name": "com.example.shadowing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311189801730-1pit9qqo5pe637reoou418dc7bptv2h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW3AKO-egcIBX5rrZcJg03kGiQ0dm-VcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311189801730-1pit9qqo5pe637reoou418dc7bptv2h4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "311189801730-tmsfsph64htbahlp7ldtrenstkbk0cfh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shadowingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
