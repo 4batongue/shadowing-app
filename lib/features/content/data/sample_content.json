@@ -1,0 +1,145 @@
+{
+  "contents": [
+    {
+      "id": "news_001",
+      "title": "Tech Giants Report Record Profits",
+      "description": "Major technology companies announce quarterly earnings",
+      "genre": "news",
+      "level": "intermediate",
+      "duration": 180,
+      "difficulty": {
+        "vocabularyLevel": 2,
+        "estimatedToeicScore": 650
+      },
+      "script": {
+        "fullText": "Tech giants across the globe have reported record profits this quarter. Apple, Google, and Microsoft all exceeded market expectations with their latest financial results.",
+        "sentences": [
+          {
+            "id": 1,
+            "text": "Tech giants across the globe have reported record profits this quarter.",
+            "startTime": 0,
+            "endTime": 4.5
+          },
+          {
+            "id": 2,
+            "text": "Apple, Google, and Microsoft all exceeded market expectations with their latest financial results.",
+            "startTime": 5.0,
+            "endTime": 10.5
+          }
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "giants",
+          "definition": "Very large companies",
+          "difficulty": 2
+        },
+        {
+          "word": "exceeded",
+          "definition": "Went beyond or surpassed",
+          "difficulty": 3
+        }
+      ],
+      "stats": {
+        "averageScore": 78.5,
+        "completionRate": 0.65
+      }
+    },
+    {
+      "id": "business_001",
+      "title": "New Market Trends in 2025",
+      "description": "Emerging business opportunities this year",
+      "genre": "business",
+      "level": "advanced",
+      "duration": 240,
+      "difficulty": {
+        "vocabularyLevel": 3,
+        "estimatedToeicScore": 800
+      },
+      "script": {
+        "fullText": "Business leaders are identifying several key trends that will shape the market landscape in 2025. Sustainable technology and remote work solutions continue to drive innovation.",
+        "sentences": [
+          {
+            "id": 1,
+            "text": "Business leaders are identifying several key trends that will shape the market landscape in 2025.",
+            "startTime": 0,
+            "endTime": 5.5
+          },
+          {
+            "id": 2,
+            "text": "Sustainable technology and remote work solutions continue to drive innovation.",
+            "startTime": 6.0,
+            "endTime": 11.0
+          }
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "landscape",
+          "definition": "The overall situation or environment",
+          "difficulty": 3
+        },
+        {
+          "word": "sustainable",
+          "definition": "Able to continue over time",
+          "difficulty": 2
+        }
+      ],
+      "stats": {
+        "averageScore": 65.2,
+        "completionRate": 0.45
+      }
+    },
+    {
+      "id": "beginner_001",
+      "title": "Daily Morning Routine",
+      "description": "Simple conversation about morning activities",
+      "genre": "lifestyle",
+      "level": "beginner",
+      "duration": 120,
+      "difficulty": {
+        "vocabularyLevel": 1,
+        "estimatedToeicScore": 400
+      },
+      "script": {
+        "fullText": "I wake up at seven every morning. First, I brush my teeth and take a shower. Then I have breakfast and read the news.",
+        "sentences": [
+          {
+            "id": 1,
+            "text": "I wake up at seven every morning.",
+            "startTime": 0,
+            "endTime": 2.5
+          },
+          {
+            "id": 2,
+            "text": "First, I brush my teeth and take a shower.",
+            "startTime": 3.0,
+            "endTime": 5.5
+          },
+          {
+            "id": 3,
+            "text": "Then I have breakfast and read the news.",
+            "startTime": 6.0,
+            "endTime": 8.5
+          }
+        ]
+      },
+      "vocabulary": [
+        {
+          "word": "routine",
+          "definition": "Regular way of doing things",
+          "difficulty": 1
+        },
+        {
+          "word": "breakfast",
+          "definition": "The first meal of the day",
+          "difficulty": 1
+        }
+      ],
+      "stats": {
+        "averageScore": 85.1,
+        "completionRate": 0.82
+      }
+    }
+  ]
+}
